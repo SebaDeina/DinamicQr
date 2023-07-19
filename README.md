@@ -1,1 +1,1 @@
-# DinamicQr
+# Generador de QR's dinamicos
